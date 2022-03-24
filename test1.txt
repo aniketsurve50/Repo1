@@ -1,0 +1,10 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is D899-F80D
+
+ Directory of D:\AWS\Git\project
+
+03/24/2022  09:17 AM    <DIR>          .
+03/24/2022  09:17 AM    <DIR>          ..
+03/24/2022  09:17 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  10,377,838,592 bytes free
